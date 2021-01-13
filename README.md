@@ -1,4 +1,6 @@
 # Study-Case
+Nama : Louis Melkisedek Wee
+NIM : 19.11.2787
 Promos
 Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas UAS Pemrogramana , Aplikasi ini berguna sebagai simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 
